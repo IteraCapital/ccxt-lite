@@ -1,0 +1,18 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- ccxt-lite - A light-weighted python wrapper of ccxt library for historical information              -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- Description: it is user friendly wrapper of ccxt for historical information retrieval               -- #
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- Author: IFFranciscoME - if.francisco.me@gmail.com                                                   -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- Repository: https://github.com/IteraCapital/ccxt-lite                                               -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+# Run the following in bash console:
+# $ pip instal -r requirements.txt
+
+# -- Generic
+pandas==1.1.4
+numpy==1.20
+ccxt
