@@ -5,6 +5,14 @@ ccxt-lite
 A light-weighted python wrapper of the ccxt library. Specially focused on historical information retrieval, 
 in particular, OHLCV and Limit OrderBook Data.
 
+--------------
+Base Reference
+--------------
+
+This wrapper is built on top of the `ccxt`_, hence the base functionality must be consulted there, the functions provided here are wrapped to make them more user-friendly purposefully for historical information retrieval. Credits to contributors for that particular repository which I think is great as it is, just too confusing for a more mainstream type of user.
+
+.. _ccxt: https://github.com/ccxt/ccxt
+
 ------------
 Installation
 ------------
@@ -13,7 +21,7 @@ Installation
   
 Clone entire github project
 
-    git@github.com:IteraCapital/ccxt.git
+    git@github.com:IteraCapital/ccxt-lite.git
 
 (optional) create a virtual environment
 
